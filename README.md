@@ -61,5 +61,13 @@ Source code and GPU-based implementations will be added as development progresse
 
 ---
 
-## 📄 License
-MIT License
+## 📜 License
+
+This project is **source-available** under the  
+**PolyForm Noncommercial License**.
+
+- ✔️ You may read, modify, and contribute to the code  
+- ❌ Commercial use or resale is not allowed  
+
+A commercial license will be offered in the future.
+thank you.
