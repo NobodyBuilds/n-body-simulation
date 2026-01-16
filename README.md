@@ -28,7 +28,12 @@ I’m still learning **C++**, so feel free to contribute, suggest improvements, 
 - No specific GPU required (CPU-only for now)
 
 ---
-
+## 📖liberaries used
+- opengl for rendering
+- GLFW
+- glad
+- imgui for gui,
+---
 ## ▶️ Usage
 1. Download the latest release
 2. Run the executable
