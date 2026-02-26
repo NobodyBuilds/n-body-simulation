@@ -14,7 +14,15 @@ This is my **first-ever simulation project**, so the code is messy in places:
 That said, everything will be improved over time.  
 I’m still learning **C++**, so feel free to contribute, suggest improvements, or roast the code constructively ❤️
 
+<img width="1184" height="724" alt="Screenshot 2026-01-16 190209" src="https://github.com/user-attachments/assets/3433162c-d0c5-4870-9437-c5accc6f91af" />
+
+<img width="1060" height="871" alt="Screenshot 2026-01-16 190138" src="https://github.com/user-attachments/assets/647ac497-8b7e-4cc7-b6d1-15d7d1d20161" />
+
+
 ---
+
+
+
 
 ## 🔥 Features
 - Real-time visualization
